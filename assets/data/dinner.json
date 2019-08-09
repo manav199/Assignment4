@@ -1,0 +1,8 @@
+{
+    "Dinner":
+    [
+        {"name":"Noodles", "price":"$12", "calories":"420 cal"},
+        {"name":"Tacos", "price":"$8", "calories":"226 cal"},
+        {"name":"Pizza ", "price":"$25", "calories":"565 cal"}
+    ]
+}
